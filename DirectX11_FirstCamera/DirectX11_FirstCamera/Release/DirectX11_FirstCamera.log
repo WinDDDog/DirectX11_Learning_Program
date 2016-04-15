@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/12/14 21:24:27。
+     1>项目“F:\DirectX_project\DirectX11_FirstCamera\DirectX11_FirstCamera\DirectX11_FirstCamera.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\DirectX1.EC127226.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WinProc_Drawfunc.cpp
+         WinProc_Drawfunc.cpp
+     1>WinProc_Drawfunc.cpp(88): error C2059: 语法错误:“return”
+     1>已完成生成项目“F:\DirectX_project\DirectX11_FirstCamera\DirectX11_FirstCamera\DirectX11_FirstCamera.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.19
