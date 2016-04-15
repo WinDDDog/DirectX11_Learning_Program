@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/11/16 0:13:00。
+     1>项目“F:\DirectX_project\DirectX11_DrawSquare\DirectX11_DrawSquare\DirectX11_DrawSquare.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\DirectX1.EC127226.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DrawFunction.cpp
+         DrawFunction.cpp
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\DirectX_project\DirectX11_DrawSquare\Release\DirectX11_DrawSquare.exe" /INCREMENTAL:NO /NOLOGO d2d1.lib d3d11.lib dxgi.lib ole32.lib windowscodecs.lib D3DCompiler.lib dwrite.lib xaudio2.lib mfcore.lib mfplat.lib mfreadwrite.lib xinput.lib mfuuid.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\DirectX_project\DirectX11_DrawSquare\Release\DirectX11_DrawSquare.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\DirectX_project\DirectX11_DrawSquare\Release\DirectX11_DrawSquare.lib" /MACHINE:X86 /SAFESEH Release\DrawFunction.obj
+         Release\My_D3D_APP.obj
+         Release\WinMain.obj
+     1>DrawFunction.obj : error LNK2001: 无法解析的外部符号 __imp__MessageBoxW@16
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__DispatchMessageW@4
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__DefWindowProcW@16
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__GetStockObject@4
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__UpdateWindow@4
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__RegisterClassW@4
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__CreateWindowExW@48
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__ShowWindow@8
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__PeekMessageW@20
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__LoadIconW@8
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__TranslateMessage@4
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__BeginPaint@8
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__LoadCursorW@8
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__PostQuitMessage@4
+     1>WinMain.obj : error LNK2001: 无法解析的外部符号 __imp__EndPaint@8
+     1>F:\DirectX_project\DirectX11_DrawSquare\Release\DirectX11_DrawSquare.exe : fatal error LNK1120: 15 个无法解析的外部命令
+     1>已完成生成项目“F:\DirectX_project\DirectX11_DrawSquare\DirectX11_DrawSquare\DirectX11_DrawSquare.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.10

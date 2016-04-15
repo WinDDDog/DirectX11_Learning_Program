@@ -1,0 +1,20 @@
+﻿生成启动时间为 2015/11/13 18:27:44。
+     1>项目“F:\DirectX_project\DriectX_Le4\DriectX_Le4\DriectX_Le4.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\DriectX_Le4.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\DirectX_project\DriectX_Le4\Release\DriectX_Le4.exe" /INCREMENTAL:NO /NOLOGO d2d1.lib d3d11.lib dxgi.lib ole32.lib windowscodecs.lib dwrite.lib xaudio2.lib mfcore.lib mfplat.lib mfreadwrite.lib xinput.lib mfuuid.lib D3DCompiler.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\DirectX_project\DriectX_Le4\Release\DriectX_Le4.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\DirectX_project\DriectX_Le4\Release\DriectX_Le4.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         DriectX_Le4.vcxproj -> F:\DirectX_project\DriectX_Le4\Release\DriectX_Le4.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release\DriectX_Le4.tlog\unsuccessfulbuild”。
+         正在对“Release\DriectX_Le4.tlog\DriectX_Le4.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\DirectX_project\DriectX_Le4\DriectX_Le4\DriectX_Le4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.40
